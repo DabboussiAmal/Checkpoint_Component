@@ -1,0 +1,26 @@
+.App{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    width:800px;
+    margin: auto;
+    margin-top: 30px;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(241,220,225,1) 100%);
+}
+img{
+    width: 400px;
+    height: 400px;
+    margin-top: 10px;
+    border-radius: 50%;
+    
+}
+h1{
+    font-size: 35px;
+    color: rgb(61, 61, 214);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    font-size: 35px;
+    color: rgb(61, 61, 214);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
